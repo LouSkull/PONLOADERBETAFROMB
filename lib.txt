@@ -20,3 +20,8 @@ openai==0.28
 telethon
 gitpython
 beautifulsoup4
+sqlite3
+pandas
+rarfile
+zipfile36
+patool
